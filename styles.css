@@ -1,0 +1,75 @@
+body {
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+  }
+  
+  .one {
+    background: #1F2937;
+      border: 5px solid #4ADF86;
+    border-radius: 10px;
+    height: 550px;
+    margin: 50px auto 0 auto;
+    width: 550px;
+  }
+  
+  h1 {
+    color: #FFFFFF;
+    font-size: 40px;
+    font-weight: 800;
+    letter-spacing: -0.025em;
+    line-height: 40px;
+    padding-top: 100px;
+    margin-left: 50px;
+  }
+  
+  span {
+    color: #4ADF86;
+  }
+  
+  p {
+    color: #D5D4D8;
+    font-size: 19px;
+    font-weight: 400;
+    height: 28px;
+    line-height: 28px;
+    margin-left: 50px;
+  }
+  
+  #passwords {
+    background: #10B981;
+    border: none;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 50px;
+    padding: auto;
+    width: 200px;
+  }
+  
+  hr {
+    border: 1px solid #2F3E53;
+    margin-top: 20px;
+    width: 446px;
+  }
+  
+  .two {
+    display: flex;
+    text-align: center;
+    margin: 0 auto 0 auto;
+  }
+  
+  .gen-div {
+    background: #273549;
+    border-radius: 5px;
+    color: #55F991;
+    line-height: 50px;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 50px;
+    padding: auto;
+    width: 200px;
+  }
+  
